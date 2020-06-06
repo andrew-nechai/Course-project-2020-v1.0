@@ -1,0 +1,8 @@
+/* html {
+    font-size: 22px;
+  } */
+
+body {
+    background-image: url(/dist/img/bg-image.jpg);
+    font-family: 'Roboto Condensed', sans-serif !important; 
+}
